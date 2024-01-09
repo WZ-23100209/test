@@ -5,45 +5,27 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>WZxEDM</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className={styles.title}>
-          DevOooops! to DEVOPS 
+          House is More !
         </h1>
 
         <p className={styles.description}>
-          Another day in the life of Waiz
+          Experience enlightenment.
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://open.spotify.com/playlist/36OixFYGiFjgqQnNDmIfDk"
             className={styles.card}
           >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
+            <h3>EDMxWZ &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Listen to some of the groovy tunes curated by yours truly.
             </p>
           </a>
         </div>
@@ -56,7 +38,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
+          WZ's superior taste.
         </a>
       </footer>
 
